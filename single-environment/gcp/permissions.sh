@@ -21,3 +21,6 @@ gcloud projects add-iam-policy-binding ${TF_ADMIN} \
   --member serviceAccount:terraform@${TF_ADMIN}.iam.gserviceaccount.com \
   --role roles/compute.instanceAdmin.v1
 
+gcloud projects add-iam-policy-binding ${TF_ADMIN} \
+  --member serviceAccount:terraform@${TF_ADMIN}.iam.gserviceaccount.com \
+  --role roles/pubsub.editor
