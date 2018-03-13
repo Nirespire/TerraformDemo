@@ -4,3 +4,11 @@
 *.tfstate.*
 
 *.tfvars
+
+*.env
+
+node_modules
+
+terraform-admin.json
+
+.DS_Store
