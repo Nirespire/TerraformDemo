@@ -12,3 +12,4 @@ node_modules
 terraform-admin.json
 
 .DS_Store
+npm-debug.log

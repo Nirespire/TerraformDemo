@@ -1,1 +1,1 @@
-docker run -it -v `pwd`:/terraform-demo amazonlinux
+docker run -it -v `pwd`:/terraform-demo abhijitp/amazonlinux-node
