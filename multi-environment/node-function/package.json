@@ -6,6 +6,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@google-cloud/pubsub": "^0.16.5"
+    "@google-cloud/pubsub": "^1.4.1"
   }
 }
